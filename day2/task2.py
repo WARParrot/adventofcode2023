@@ -1,6 +1,6 @@
 IDs = int()
 
-with open("input2.txt") as f:
+with open("input.txt") as f:
     file = f.read().splitlines()
 
 for i in file:
